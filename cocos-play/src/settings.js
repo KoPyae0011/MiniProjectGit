@@ -1,0 +1,1 @@
+window._CCSettings={platform:"jkw-game",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:["miniGame"],subpackages:[],launchScene:"db://assets/miniGame/miniGame.fire",orientation:"",server:"",jsList:[],bundleVers:{miniGame:"aea32",internal:"ca951",main:"4aff1"}};
